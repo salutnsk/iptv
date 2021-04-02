@@ -1,8 +1,4 @@
 ﻿#EXTM3U cache=1500 deinterlace=1 aspect-ratio=4:3 url-tvg="http://tv.adslclub.ru/jtv.zip" tvg-shift=1 m3uautoload=1 
-#EXTINF:-1 tvg-logo="http://monitor.zone-game.info/check.php?do=status&ip=5.137.37.194:1234&id=20",Статус сервера
-http://monitor.zone-game.info/check.php?do=status&ip=5.137.37.194:1234&id=20 
-#EXTINF:-1,m3u www.iptvsmotri.ru
-http://www.iptvsmotri.ru/
 #EXTINF:-1 tvg-id="Первый_канал",Первый канал (+4)
 http://5.137.37.194:1234/udp/225.54.205.129:5000
 #EXTINF:-1 tvg-id="Россия_(Нск)",Россия 1 (+4)
