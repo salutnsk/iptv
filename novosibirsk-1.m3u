@@ -1,0 +1,935 @@
+#EXTM3U cache=1500 deinterlace=1 aspect-ratio=4:3 url-tvg="http://tv.adslclub.ru/jtv.zip" tvg-shift=1 m3uautoload=1 
+#EXTINF:-1 tvg-id="Первый_канал",Первый канал (+4)
+http://5.137.37.194:1234/udp/225.54.205.129:5000
+#EXTINF:-1 tvg-id="Россия_(Нск)",Россия 1 (+4)
+http://5.137.37.194:1234/udp/225.54.205.130:5000
+#EXTINF:-1 tvg-id="Спорт",Матч ТВ
+http://5.137.37.194:1234/udp/225.54.205.131:5000
+#EXTINF:-1 tvg-id="НТВ_(Нск)",НТВ (+4)
+http://5.137.37.194:1234/udp/225.54.205.132:5000
+#EXTINF:-1 tvg-id="Петербург_-_5_канал",5 Канал Санкт-Петербург
+http://5.137.37.194:1234/udp/225.54.205.133:5000
+#EXTINF:-1 tvg-id="Культура_(Нск)",Россия К
+http://5.137.37.194:1234/udp/225.54.205.134:5000
+#EXTINF:-1 tvg-id="Вести",Россия 24
+http://5.137.37.194:1234/udp/225.54.205.135:5000
+#EXTINF:-1 tvg-id="Бибигон",Карусель
+http://5.137.37.194:1234/udp/225.54.205.136:5000
+#EXTINF:-1 tvg-id="ОТР",ОТР
+http://5.137.37.194:1234/udp/225.54.205.137:5000
+#EXTINF:-1 tvg-id="ТВ_Центр_(Нск)",ТВ Центр
+http://5.137.37.194:1234/udp/225.54.205.138:5000
+#EXTINF:-1 tvg-id="РЕН_ТВ",РЕН-ТВ
+http://5.137.37.194:1234/udp/225.54.205.139:5000
+#EXTINF:-1 tvg-id="Спас",Спас
+http://5.137.37.194:1234/udp/225.54.205.140:5000
+#EXTINF:-1 tvg-id="СТС_(Нск)",СТС
+http://5.137.37.194:1234/udp/225.54.205.141:5000
+#EXTINF:-1 tvg-id="Домашний",Домашний
+http://5.137.37.194:1234/udp/225.54.205.142:5000
+#EXTINF:-1 tvg-id="ТВ3_(Нск)",ТВ3
+http://5.137.37.194:1234/udp/225.54.205.143:5000
+#EXTINF:-1 tvg-id="MTV_(Нск)",Пятница
+http://5.137.37.194:1234/udp/225.54.205.144:5000
+#EXTINF:-1 tvg-id="Звезда",Звезда
+http://5.137.37.194:1234/udp/225.54.205.145:5000
+#EXTINF:-1 tvg-id="Мир",Мир
+http://5.137.37.194:1234/udp/225.54.205.146:5000
+#EXTINF:-1 tvg-id="ТНТ_(Нск)",ТНТ
+http://5.137.37.194:1234/udp/225.54.205.147:5000
+#EXTINF:-1 tvg-id="МузТВ",Муз ТВ
+http://5.137.37.194:1234/udp/225.54.205.148:5000
+#EXTINF:-1 tvg-id="ДТВ",Че
+http://5.137.37.194:1234/udp/225.54.223.211:5000
+#EXTINF:-1 tvg-id="Ю_(Нск)",Ю
+http://5.137.37.194:1234/udp/225.54.205.171:5000
+#EXTINF:-1,8 канал
+http://5.137.37.194:1234/udp/225.54.205.175:5000
+#EXTINF:-1 tvg-id="РБК",РБК
+http://5.137.37.194:1234/udp/225.54.205.172:5000
+#EXTINF:-1 tvg-id="ОТС_(Нск)",ОТС
+http://5.137.37.194:1234/udp/225.54.205.169:5000
+#EXTINF:-1 tvg-id="49_канал",49 канал
+http://5.137.37.194:1234/udp/225.54.205.170:5000
+#EXTINF:-1 tvg-id="СТС_(Нск)",СТС (ТС Мир)
+http://5.137.37.194:1234/udp/225.54.205.173:5000
+#EXTINF:-1 tvg-id="Jetix",Disney Channel
+http://5.137.37.194:1234/udp/225.54.205.174:5000
+#EXTINF:-1 tvg-id="Jetix",Disney Channel
+http://5.137.37.194:1234/udp/225.54.223.231:5000
+#EXTINF:-1 tvg-id="Nickelodeon",Nickelodeon
+http://5.137.37.194:1234/udp/233.7.70.52:5000
+#EXTINF:-1 tvg-id="Детский",Детский
+http://5.137.37.194:1234/udp/233.7.70.54:5000
+#EXTINF:-1 tvg-id="Радость_моя",Радость моя
+http://5.137.37.194:1234/udp/233.7.70.55:5000
+#EXTINF:-1 tvg-id="Мать_и_дитя",Мама
+http://5.137.37.194:1234/udp/233.7.70.56:5000
+#EXTINF:-1 tvg-id="Discovery_Channel",Discovery Channel
+http://5.137.37.194:1234/udp/233.7.70.12:5000
+#EXTINF:-1 tvg-id="Viasat_Explorer",Viasat Explorer
+http://5.137.37.194:1234/udp/233.7.70.16:5000
+#EXTINF:-1 tvg-id="Viasat_History",Viasat History
+http://5.137.37.194:1234/udp/233.7.70.17:5000
+#EXTINF:-1 tvg-id="Техно-24",Техно-24
+http://5.137.37.194:1234/udp/233.7.70.18:5000
+#EXTINF:-1 tvg-id="National_Geographic",National Geographic
+http://5.137.37.194:1234/udp/233.7.70.43:5000
+#EXTINF:-1 tvg-id="СГУ_ТВ",СГУ ТВ
+http://5.137.37.194:1234/udp/233.7.70.49:5000
+#EXTINF:-1 tvg-id="Просвещение",Просвещение
+http://5.137.37.194:1234/udp/233.7.70.50:5000
+#EXTINF:-1 tvg-id="24_Док",24 Док
+http://5.137.37.194:1234/udp/233.7.70.51:5000
+#EXTINF:-1 tvg-id="TV_XXI",TVXXI
+http://5.137.37.194:1234/udp/233.7.70.38:5000
+#EXTINF:-1 tvg-id="Настоящее_Страшное_ТВ",НСТ
+http://5.137.37.194:1234/udp/233.7.70.39:5000
+#EXTINF:-1 tvg-id="Феникс_Кино",Феникс+Кино
+http://5.137.37.194:1234/udp/233.7.70.40:5000
+#EXTINF:-1 tvg-id="Zee_TV",Zee TV
+http://5.137.37.194:1234/udp/233.7.70.41:5000
+#EXTINF:-1 tvg-id="2x2",2x2
+http://5.137.37.194:1234/udp/225.54.223.241:5000
+#EXTINF:-1 tvg-id="France_24",France 24
+http://5.137.37.194:1234/udp/233.7.70.30:5000
+#EXTINF:-1 tvg-id="Russia_Today",Russia Today
+http://5.137.37.194:1234/udp/233.7.70.31:5000
+#EXTINF:-1 tvg-id="Euronews",Euronews
+http://5.137.37.194:1234/udp/233.7.70.32:5000
+#EXTINF:-1 tvg-id="Deutsche_Welle",Deutsche Welle
+http://5.137.37.194:1234/udp/233.7.70.33:5000
+#EXTINF:-1 tvg-id="ТРО",ТРО Союз
+http://5.137.37.194:1234/udp/233.7.70.9:5000
+#EXTINF:-1 tvg-id="Drive",Драйв
+http://5.137.37.194:1234/udp/233.7.70.8:5000
+#EXTINF:-1 tvg-id="Zooпарк",Zooпарк
+http://5.137.37.194:1234/udp/233.7.70.11:5000
+#EXTINF:-1 tvg-id="РетроТВ",Ретро ТВ
+http://5.137.37.194:1234/udp/233.7.70.42:5000
+#EXTINF:-1 tvg-id="Охота_и_рыбалка",Охота и рыбалка
+http://5.137.37.194:1234/udp/233.7.70.44:5000
+#EXTINF:-1 tvg-id="Усадьба",Усадьба ТВ
+http://5.137.37.194:1234/udp/233.7.70.45:5000
+#EXTINF:-1 tvg-id="Здоровое_ТВ",Здоровое ТВ
+http://5.137.37.194:1234/udp/233.7.70.47:5000
+#EXTINF:-1 tvg-id="Englishclub_TV",English Club TV
+http://5.137.37.194:1234/udp/233.7.70.48:5000
+#EXTINF:-1 tvg-id="World_Fashion_Channel",World Fashion Channel
+http://5.137.37.194:1234/udp/233.7.70.57:5000
+#EXTINF:-1 tvg-logo="Юмор TV" tvg-id="Юмор_TV",Анекдот ТВ
+http://5.137.37.194:1234/udp/233.7.70.58:5000
+#EXTINF:-1 tvg-id="Ля_Минор",Ля Минор
+http://5.137.37.194:1234/udp/233.7.70.1:5000
+#EXTINF:-1 tvg-logo="VH1" tvg-id="VH1_European",VH1 European
+http://5.137.37.194:1234/udp/233.7.70.2:5000
+#EXTINF:-1 tvg-id="MCM_Top",MCM Top
+http://5.137.37.194:1234/udp/233.7.70.3:5000
+#EXTINF:-1 tvg-id="Bridge_TV",Bridge TV
+http://5.137.37.194:1234/udp/233.7.70.4:5000
+#EXTINF:-1 tvg-logo="ТНТ" tvg-id="ТНТ Music",ТНТ Music
+http://5.137.37.194:1234/udp/233.7.70.60:5000
+#EXTINF:-1 tvg-id="Music_Box_Ru",Music Box RU
+http://5.137.37.194:1234/udp/233.7.70.61:5000
+#EXTINF:-1 tvg-id="Music_Box_TV",Music Box TV
+http://5.137.37.194:1234/udp/233.7.70.62:5000
+#EXTINF:-1 tvg-id="Ru_TV",RuTV
+http://5.137.37.194:1234/udp/233.7.70.63:5000
+#EXTINF:-1 tvg-id="КХЛ_ТВ",КХЛ
+http://5.137.37.194:1234/udp/233.7.70.5:5000
+#EXTINF:-1 tvg-id="Русский_экстрим",Русский экстрим
+http://5.137.37.194:1234/udp/233.7.70.7:5000
+#EXTINF:-1 tvg-id="Shopping_Live",Shopping Live
+http://5.137.37.194:1234/udp/233.7.70.28:5000
+#EXTINF:-1 tvg-id="TopShop_TV",TopShop TV
+http://5.137.37.194:1234/udp/233.7.70.29:5000
+#EXTINF:-1 tvg-id="Ювилирочка",Ювилирочка
+http://5.137.37.194:1234/udp/233.7.70.37:5000
+#EXTINF:-1,Eurosport 1
+http://5.137.37.194:1234/udp/233.7.70.13:5000
+#EXTINF:-1,Eurosport 2
+http://5.137.37.194:1234/udp/233.7.70.14:5000
+#EXTINF:-1,Food Network
+http://5.137.37.194:1234/udp/233.7.70.10:5000
+#EXTINF:-1,MIR 24
+http://5.137.37.194:1234/udp/233.7.70.130:5000
+#EXTINF:-1,Musik&Mult
+http://5.137.37.194:1234/udp/233.7.70.134:5000
+#EXTINF:-1,MY PLANET
+http://5.137.37.194:1234/udp/233.7.70.132:5000
+#EXTINF:-1,RBC
+http://5.137.37.194:1234/udp/233.7.70.35:5000
+#EXTINF:-1,TV1000
+http://5.137.37.194:1234/udp/233.7.70.53:5000
+#EXTINF:-1,TV1000 Русское Кино
+http://5.137.37.194:1234/udp/233.7.70.131:5000
+#EXTINF:-1,U TV +4
+http://5.137.37.194:1234/udp/233.7.70.34:5000
+#EXTINF:-1,Viasat Nature
+http://5.137.37.194:1234/udp/233.7.70.133:5000
+#EXTINF:-1,Viasat Sport
+http://5.137.37.194:1234/udp/233.7.70.15:5000
+#EXTINF:-1,Домашний
+http://5.137.37.194:1234/udp/225.54.205.162:5000
+#EXTINF:-1,Звезда
+http://5.137.37.194:1234/udp/225.54.205.165:5000
+#EXTINF:-1,КАРУСЕЛЬ
+http://5.137.37.194:1234/udp/225.54.205.156:5000
+#EXTINF:-1,МАТЧ!
+http://5.137.37.194:1234/udp/225.54.205.151:5000
+#EXTINF:-1,МИР
+http://5.137.37.194:1234/udp/225.54.205.166:5000
+#EXTINF:-1,МУЗ ТВ
+http://5.137.37.194:1234/udp/225.54.205.168:5000
+#EXTINF:-1,НТВ
+http://5.137.37.194:1234/udp/225.54.205.152:5000
+#EXTINF:-1,НТН 24
+http://5.137.37.194:1234/udp/225.54.205.178:5000
+#EXTINF:-1,ОТР
+http://5.137.37.194:1234/udp/225.54.205.157:5000
+#EXTINF:-1,ПЕРВЫЙ КАНАЛ
+http://5.137.37.194:1234/udp/225.54.205.149:5000
+#EXTINF:-1,ПЯТЫЙ КАНАЛ
+http://5.137.37.194:1234/udp/225.54.205.153:5000
+#EXTINF:-1,Пятница
+http://5.137.37.194:1234/udp/225.54.205.164:5000
+#EXTINF:-1,РЕН ТВ
+http://5.137.37.194:1234/udp/225.54.205.159:5000
+#EXTINF:-1,РОССИЯ-1
+http://5.137.37.194:1234/udp/225.54.205.150:5000
+#EXTINF:-1,РОССИЯ-24
+http://5.137.37.194:1234/udp/225.54.205.155:5000
+#EXTINF:-1,РОССИЯ-К
+http://5.137.37.194:1234/udp/225.54.205.154:5000
+#EXTINF:-1,СТС
+http://5.137.37.194:1234/udp/225.54.205.161:5000
+#EXTINF:-1,СТС
+http://5.137.37.194:1234/udp/233.7.70.129:5000
+#EXTINF:-1,Спас
+http://5.137.37.194:1234/udp/225.54.205.160:5000
+#EXTINF:-1,ТВ Центр
+http://5.137.37.194:1234/udp/225.54.205.158:5000
+#EXTINF:-1,ТВ3
+http://5.137.37.194:1234/udp/225.54.205.163:5000
+#EXTINF:-1,ТНТ
+http://5.137.37.194:1234/udp/225.54.205.167:5000
+#EXTINF:-1,ТНТ4 +2
+http://5.137.37.194:1234/udp/225.54.23.227:5000
+#EXTINF:-1,ТНТ4 +4
+http://5.137.37.194:1234/udp/225.54.23.228:5000
+#EXTINF:-1,ТНТ4 +7
+http://5.137.37.194:1234/udp/225.54.23.229:5000
+#EXTINF:-1,ТНТ4 региональный
+http://5.137.37.194:1234/udp/225.54.205.177:5000
+#EXTINF:-1,(radio) Comedy Radio  (radio) HD
+http://5.137.37.194:1234/udp/225.54.23.251:5000
+#EXTINF:-1,(radio) Relax FM (radio) HD
+http://5.137.37.194:1234/udp/225.54.23.249:5000
+#EXTINF:-1,(radio) Авторадио  (radio) HD
+http://5.137.37.194:1234/udp/225.54.23.246:5000
+#EXTINF:-1,(radio) ВЕСТИ ФМ  (radio)
+http://5.137.37.194:1234/udp/225.54.205.180:5000
+#EXTINF:-1,(radio) Детское радио  (radio) HD
+http://5.137.37.194:1234/udp/225.54.23.250:5000
+#EXTINF:-1,(radio) МАЯК  (radio)
+http://5.137.37.194:1234/udp/225.54.205.181:5000
+#EXTINF:-1,(radio) Радио ENERGY  (radio) HD
+http://5.137.37.194:1234/udp/225.54.23.245:5000
+#EXTINF:-1,(radio) Радио Романтика  (radio) HD
+http://5.137.37.194:1234/udp/225.54.23.247:5000
+#EXTINF:-1,(radio) Радио России  (radio)
+http://5.137.37.194:1234/udp/225.54.205.182:5000
+#EXTINF:-1,(radio) Юмор FM  (radio) HD
+http://5.137.37.194:1234/udp/225.54.23.248:5000
+#EXTINF:-1,(DRM) 319 - Malysh
+http://5.137.37.194:1234/udp/225.54.23.3:5000
+#EXTINF:-1,(DRM) 028 - Shopping Live
+http://5.137.37.194:1234/udp/225.54.23.2:5000
+#EXTINF:-1,(DRM) 032 - Juvelirochka
+http://5.137.37.194:1234/udp/225.54.23.8:5000
+#EXTINF:-1,(DRM) 036 - Euronovosti
+http://5.137.37.194:1234/udp/225.54.23.6:5000
+#EXTINF:-1,(DRM) 033 - DW
+http://5.137.37.194:1234/udp/225.54.23.7:5000
+#EXTINF:-1,(DRM) 039 - RBC
+http://5.137.37.194:1234/udp/225.54.23.9:5000
+#EXTINF:-1,(DRM) 043 - BBC World News
+http://5.137.37.194:1234/udp/225.54.23.10:5000
+#EXTINF:-1,(DRM) 037 - NHK World TV
+http://5.137.37.194:1234/udp/225.54.23.11:5000
+#EXTINF:-1,(DRM) 040 - MIR 24
+http://5.137.37.194:1234/udp/225.54.23.13:5000
+#EXTINF:-1,(DRM) 038 - Shop 24
+http://5.137.37.194:1234/udp/225.54.23.12:5000
+#EXTINF:-1,(DRM) 226 - Mujskoy (+6)
+http://5.137.37.194:1234/udp/225.54.23.14:5000
+#EXTINF:-1,(DRM) 108 - Kinokomedia
+http://5.137.37.194:1234/udp/225.54.23.25:5000
+#EXTINF:-1,(DRM) 104 - TV XXI
+http://5.137.37.194:1234/udp/225.54.23.21:5000
+#EXTINF:-1,(DRM) 105 - Illuzion+
+http://5.137.37.194:1234/udp/225.54.23.22:5000
+#EXTINF:-1,(DRM) 106 - Russkij Illuzion
+http://5.137.37.194:1234/udp/225.54.23.23:5000
+#EXTINF:-1,(DRM) 109 - Paramount Comedy
+http://5.137.37.194:1234/udp/225.54.23.26:5000
+#EXTINF:-1,(DRM) 138 - Sony Turbo
+http://5.137.37.194:1234/udp/225.54.23.28:5000
+#EXTINF:-1,(DRM) 112 - NST
+http://5.137.37.194:1234/udp/225.54.23.29:5000
+#EXTINF:-1,(DRM) 113 - FOX
+http://5.137.37.194:1234/udp/225.54.23.30:5000
+#EXTINF:-1,(DRM) 115 - Fenix+Kino
+http://5.137.37.194:1234/udp/225.54.23.32:5000
+#EXTINF:-1,(DRM) 122 - Kinomix
+http://5.137.37.194:1234/udp/225.54.23.40:5000
+#EXTINF:-1,(DRM) 123 - Mujskoe kino
+http://5.137.37.194:1234/udp/225.54.23.41:5000
+#EXTINF:-1,(DRM) 124 - Rodnoe kino
+http://5.137.37.194:1234/udp/225.54.23.42:5000
+#EXTINF:-1,(DRM) 125 - Nashe novoe kino
+http://5.137.37.194:1234/udp/225.54.23.43:5000
+#EXTINF:-1,(DRM) 126 - Paramount channel
+http://5.137.37.194:1234/udp/225.54.23.44:5000
+#EXTINF:-1,(DRM) 129 - Zee TV
+http://5.137.37.194:1234/udp/225.54.23.47:5000
+#EXTINF:-1,(DRM) 226 - Muzhskoy
+http://5.137.37.194:1234/udp/225.54.23.46:5000
+#EXTINF:-1,(DRM) 200 - History
+http://5.137.37.194:1234/udp/225.54.23.52:5000
+#EXTINF:-1,(DRM) 132 - Rysskiy bestseller
+http://5.137.37.194:1234/udp/225.54.23.50:5000
+#EXTINF:-1,(DRM) 202 - NGC
+http://5.137.37.194:1234/udp/225.54.23.54:5000
+#EXTINF:-1,(DRM) 206 - Moya Planeta
+http://5.137.37.194:1234/udp/225.54.23.58:5000
+#EXTINF:-1,(DRM) 207 - Discovery channel
+http://5.137.37.194:1234/udp/225.54.23.59:5000
+#EXTINF:-1,(DRM) 205 - Techno 24
+http://5.137.37.194:1234/udp/225.54.23.57:5000
+#EXTINF:-1,(DRM) 208 - Animal Planet
+http://5.137.37.194:1234/udp/225.54.23.60:5000
+#EXTINF:-1,(DRM) 232 - Zoopark
+http://5.137.37.194:1234/udp/225.54.23.61:5000
+#EXTINF:-1,(DRM) 213 - Nayka
+http://5.137.37.194:1234/udp/225.54.23.65:5000
+#EXTINF:-1,(DRM) 214 - NatGeo Wild
+http://5.137.37.194:1234/udp/225.54.23.66:5000
+#EXTINF:-1,(DRM) 215 - Ohota i Rubalka
+http://5.137.37.194:1234/udp/225.54.23.67:5000
+#EXTINF:-1,(DRM) 216 - Usadba
+http://5.137.37.194:1234/udp/225.54.23.68:5000
+#EXTINF:-1,(DRM) 249 - TV BRICS
+http://5.137.37.194:1234/udp/225.54.23.74:5000
+#EXTINF:-1,(DRM) 424 - O! Kino
+http://5.137.37.194:1234/udp/225.54.23.70:5000
+#EXTINF:-1,(DRM) 227 - ID: Investigation Discovery
+http://5.137.37.194:1234/udp/225.54.23.83:5000
+#EXTINF:-1,(DRM) 229 - Prosveschenie
+http://5.137.37.194:1234/udp/225.54.23.79:5000
+#EXTINF:-1,(DRM) 310 - Multmusika
+http://5.137.37.194:1234/udp/225.54.23.76:5000
+#EXTINF:-1,(DRM) 231 - Doctor
+http://5.137.37.194:1234/udp/225.54.23.81:5000
+#EXTINF:-1,(DRM) 318 - Da Vinci Learning
+http://5.137.37.194:1234/udp/225.54.23.78:5000
+#EXTINF:-1,(DRM) 238 - Nostalgiya
+http://5.137.37.194:1234/udp/225.54.23.85:5000
+#EXTINF:-1,(DRM) 235 - Kuhnia TV
+http://5.137.37.194:1234/udp/225.54.23.84:5000
+#EXTINF:-1,(DRM) 304 - Detskij
+http://5.137.37.194:1234/udp/225.54.23.92:5000
+#EXTINF:-1,(DRM) 135 - Cinema
+http://5.137.37.194:1234/udp/225.54.23.87:5000
+#EXTINF:-1,(DRM) 240 - Istoria
+http://5.137.37.194:1234/udp/225.54.23.86:5000
+#EXTINF:-1,(DRM) 305 - Radost moya
+http://5.137.37.194:1234/udp/225.54.23.93:5000
+#EXTINF:-1,(DRM) 242 - Oruzhie
+http://5.137.37.194:1234/udp/225.54.23.88:5000
+#EXTINF:-1,(DRM) 303 - Mult
+http://5.137.37.194:1234/udp/225.54.23.91:5000
+#EXTINF:-1,(DRM) 301 - Nickelodeon
+http://5.137.37.194:1234/udp/225.54.23.90:5000
+#EXTINF:-1,(DRM) 306 - TIJI
+http://5.137.37.194:1234/udp/225.54.23.94:5000
+#EXTINF:-1,(DRM) 307 - Cartoon Network
+http://5.137.37.194:1234/udp/225.54.23.95:5000
+#EXTINF:-1,(DRM) 308 - Mama
+http://5.137.37.194:1234/udp/225.54.23.96:5000
+#EXTINF:-1,(DRM) 309 - Detskiy Mir/TeleClub
+http://5.137.37.194:1234/udp/225.54.23.97:5000
+#EXTINF:-1,(DRM) 617 - MOTORSPORT TV
+http://5.137.37.194:1234/udp/225.54.23.104:5000
+#EXTINF:-1,(DRM) 315 - Boomerang
+http://5.137.37.194:1234/udp/225.54.23.103:5000
+#EXTINF:-1,(DRM) 400 - TLC
+http://5.137.37.194:1234/udp/225.54.23.111:5000
+#EXTINF:-1,(DRM) 410 - MTV
+http://5.137.37.194:1234/udp/225.54.23.112:5000
+#EXTINF:-1,(DRM) 501 - ТНТ Music
+http://5.137.37.194:1234/udp/225.54.23.114:5000
+#EXTINF:-1,(DRM) 239 - Dikiy
+http://5.137.37.194:1234/udp/225.54.23.113:5000
+#EXTINF:-1,(DRM) 507 - La Minor
+http://5.137.37.194:1234/udp/225.54.23.119:5000
+#EXTINF:-1,(DRM) 506 - Chanson
+http://5.137.37.194:1234/udp/225.54.23.118:5000
+#EXTINF:-1,(DRM) 509 - MCM Top
+http://5.137.37.194:1234/udp/225.54.23.121:5000
+#EXTINF:-1,(DRM) 508 - VH1 European
+http://5.137.37.194:1234/udp/225.54.23.120:5000
+#EXTINF:-1,(DRM) 412 - Vostok TV
+http://5.137.37.194:1234/udp/225.54.23.110:5000
+#EXTINF:-1,(DRM) 510 - Bridge TV
+http://5.137.37.194:1234/udp/225.54.23.122:5000
+#EXTINF:-1,(DRM) 515 - VH1 Classic
+http://5.137.37.194:1234/udp/225.54.23.127:5000
+#EXTINF:-1,(DRM) 511 - Europa Plus TV
+http://5.137.37.194:1234/udp/225.54.23.123:5000
+#EXTINF:-1,(DRM) 517 - Bridge TV Russkiy
+http://5.137.37.194:1234/udp/225.54.23.129:5000
+#EXTINF:-1,(DRM) 516 - Mezzo
+http://5.137.37.194:1234/udp/225.54.23.128:5000
+#EXTINF:-1,(DRM) 601 - Eurosport 1
+http://5.137.37.194:1234/udp/225.54.23.130:5000
+#EXTINF:-1,(DRM) 613 - Eurosport 2
+http://5.137.37.194:1234/udp/225.54.23.131:5000
+#EXTINF:-1,(DRM) 603 - KHL
+http://5.137.37.194:1234/udp/225.54.23.132:5000
+#EXTINF:-1,(DRM) 604 - Match! Boec
+http://5.137.37.194:1234/udp/225.54.23.133:5000
+#EXTINF:-1,(DRM) 423 - Centralnoe TV
+http://5.137.37.194:1234/udp/225.54.23.134:5000
+#EXTINF:-1,(DRM) 606 - Viasat Sport
+http://5.137.37.194:1234/udp/225.54.23.135:5000
+#EXTINF:-1,(DRM) 320 - Multimania
+http://5.137.37.194:1234/udp/225.54.23.145:5000
+#EXTINF:-1,(DRM) 620 - Avto Plus
+http://5.137.37.194:1234/udp/225.54.23.149:5000
+#EXTINF:-1,(DRM) 701 - Souz
+http://5.137.37.194:1234/udp/225.54.23.151:5000
+#EXTINF:-1,(DRM) 703 - TRO
+http://5.137.37.194:1234/udp/225.54.23.153:5000
+#EXTINF:-1,(DRM) 414 - Jar-Ptica
+http://5.137.37.194:1234/udp/225.54.23.157:5000
+#EXTINF:-1,(DRM) 611 - Mir Basketbola
+http://5.137.37.194:1234/udp/225.54.23.154:5000
+#EXTINF:-1,(DRM) 706 - Belarus 24
+http://5.137.37.194:1234/udp/225.54.23.155:5000
+#EXTINF:-1,(DRM) 801 - Russkay Noch
+http://5.137.37.194:1234/udp/225.54.23.156:5000
+#EXTINF:-1,(DRM) 806 - O-la-la
+http://5.137.37.194:1234/udp/225.54.23.160:5000
+#EXTINF:-1,(DRM) 803 - Brazzers TV Europe
+http://5.137.37.194:1234/udp/225.54.23.158:5000
+#EXTINF:-1,(DRM) 714 - CGNT Eng
+http://5.137.37.194:1234/udp/225.54.23.162:5000
+#EXTINF:-1,(DRM) 715 - CGNT Russian
+http://5.137.37.194:1234/udp/225.54.23.163:5000
+#EXTINF:-1,(DRM) 425 - Klyuch
+http://5.137.37.194:1234/udp/225.54.23.159:5000
+#EXTINF:-1,(DRM) 713 - CCTV 4
+http://5.137.37.194:1234/udp/225.54.23.161:5000
+#EXTINF:-1,(DRM) 224 - Zhivaja Planeta
+http://5.137.37.194:1234/udp/225.54.23.165:5000
+#EXTINF:-1,(DRM) 121 - Komedia
+http://5.137.37.194:1234/udp/225.54.23.166:5000
+#EXTINF:-1,(DRM) 415 - Kaleidoskop TV
+http://5.137.37.194:1234/udp/225.54.23.167:5000
+#EXTINF:-1,(DRM) 402 - KVN TV
+http://5.137.37.194:1234/udp/225.54.23.168:5000
+#EXTINF:-1,(DRM) 146 - Mir Seriala
+http://5.137.37.194:1234/udp/225.54.23.171:5000
+#EXTINF:-1,(DRM) 621 - M-1 Global
+http://5.137.37.194:1234/udp/225.54.23.174:5000
+#EXTINF:-1,(DRM) 118 - Lubimoe Kino
+http://5.137.37.194:1234/udp/225.54.23.173:5000
+#EXTINF:-1,(DRM) 059 - Duma TV
+http://5.137.37.194:1234/udp/225.54.23.176:5000
+#EXTINF:-1,(DRM) 047 - LDPR
+http://5.137.37.194:1234/udp/225.54.23.177:5000
+#EXTINF:-1,(DRM) 405 - Anekdot TV
+http://5.137.37.194:1234/udp/225.54.23.178:5000
+#EXTINF:-1,(DRM) 316 - O!
+http://5.137.37.194:1234/udp/225.54.23.180:5000
+#EXTINF:-1,(DRM) 210 - Vremya: dalekoe i blizkoe
+http://5.137.37.194:1234/udp/225.54.23.184:5000
+#EXTINF:-1,(DRM) 317 - V gostiah u skazki
+http://5.137.37.194:1234/udp/225.54.23.182:5000
+#EXTINF:-1,(DRM) 211 - Telecafe
+http://5.137.37.194:1234/udp/225.54.23.185:5000
+#EXTINF:-1,(DRM) 218 - Eda
+http://5.137.37.194:1234/udp/225.54.23.186:5000
+#EXTINF:-1,(DRM) 524 - Muzyka Pervogo
+http://5.137.37.194:1234/udp/225.54.23.187:5000
+#EXTINF:-1,(DRM) 233 - Ocean TV
+http://5.137.37.194:1234/udp/225.54.23.188:5000
+#EXTINF:-1,(DRM) 520 - BRIDGE TV Classic
+http://5.137.37.194:1234/udp/225.54.23.196:5000
+#EXTINF:-1,(DRM) 519 - BRIDGE TV HITS
+http://5.137.37.194:1234/udp/225.54.23.195:5000
+#EXTINF:-1,(DRM) 142 - NTV-HIT
+http://5.137.37.194:1234/udp/225.54.23.198:5000
+#EXTINF:-1,(DRM) 420 - Jivi
+http://5.137.37.194:1234/udp/225.54.23.197:5000
+#EXTINF:-1,(DRM) 099 - Mosfilm
+http://5.137.37.194:1234/udp/225.54.23.199:5000
+#EXTINF:-1,(DRM) 416 - Tnomer
+http://5.137.37.194:1234/udp/225.54.23.200:5000
+#EXTINF:-1,(DRM) 053 - Uvelirochka 2
+http://5.137.37.194:1234/udp/225.54.23.233:5000
+#EXTINF:-1,(DRM) 235 - Ani
+http://5.137.37.194:1234/udp/225.54.23.235:5000
+#EXTINF:-1,(DRM) 137 - Dorama
+http://5.137.37.194:1234/udp/225.54.23.237:5000
+#EXTINF:-1,(DRM) 144 - TAINA
+http://5.137.37.194:1234/udp/225.54.23.239:5000
+#EXTINF:-1,(DRM) 421 - Tochka otriva
+http://5.137.37.194:1234/udp/225.54.23.241:5000
+#EXTINF:-1,(DRM) 905 - NatGeo Wild (original) HD
+http://5.137.37.194:1234/udp/225.54.43.7:5000
+#EXTINF:-1,(DRM) 605 - Match Arena (original) HD
+http://5.137.37.194:1234/udp/225.54.43.3:5000
+#EXTINF:-1,(DRM) 608 - MATCH PREMIER (original) HD
+http://5.137.37.194:1234/udp/225.54.43.4:5000
+#EXTINF:-1,(DRM) 904 - NGC Russia (original) HD
+http://5.137.37.194:1234/udp/225.54.43.6:5000
+#EXTINF:-1,(DRM) 901 - Eurosport 1 (original) HD
+http://5.137.37.194:1234/udp/225.54.43.2:5000
+#EXTINF:-1,(DRM) 114 - Fox Life (original) HD
+http://5.137.37.194:1234/udp/225.54.43.5:5000
+#EXTINF:-1,(DRM) 609 - Futbol (original) HD
+http://5.137.37.194:1234/udp/225.54.43.12:5000
+#EXTINF:-1,(DRM) 908 - MTV Live (original) HD
+http://5.137.37.194:1234/udp/225.54.43.10:5000
+#EXTINF:-1,(DRM) 217 - Food Network (original) HD
+http://5.137.37.194:1234/udp/225.54.43.14:5000
+#EXTINF:-1,(DRM) 874 - Travel and Adventure (orginal) HD
+http://5.137.37.194:1234/udp/225.54.43.8:5000
+#EXTINF:-1,(DRM) 110 - Sony Channel (original) HD
+http://5.137.37.194:1234/udp/225.54.43.16:5000
+#EXTINF:-1,(DRM) 113 - FOX (original) HD
+http://5.137.37.194:1234/udp/225.54.43.17:5000
+#EXTINF:-1,(DRM) 913 - Nickelodeon (original) HD
+http://5.137.37.194:1234/udp/225.54.43.15:5000
+#EXTINF:-1,(DRM) 919 - TV1000 Megahit (original) HD
+http://5.137.37.194:1234/udp/225.54.43.21:5000
+#EXTINF:-1,(DRM) 916 - Discovery Channel (original) HD
+http://5.137.37.194:1234/udp/225.54.43.18:5000
+#EXTINF:-1,(DRM) 918 - TV1000 Premium (original) HD
+http://5.137.37.194:1234/udp/225.54.43.20:5000
+#EXTINF:-1,(DRM) 922 - Russia 1 (original) HD
+http://5.137.37.194:1234/udp/225.54.43.23:5000
+#EXTINF:-1,(DRM) 917 - Animal Planet (original) HD
+http://5.137.37.194:1234/udp/225.54.43.19:5000
+#EXTINF:-1,(DRM) 521 - BRIDGE DELUXE (original) HD
+http://5.137.37.194:1234/udp/225.54.43.24:5000
+#EXTINF:-1,(DRM) 031 - Russia Today (Original) HD
+http://5.137.37.194:1234/udp/225.54.43.25:5000
+#EXTINF:-1,(DRM) 925 - KHL (original) HD
+http://5.137.37.194:1234/udp/225.54.43.27:5000
+#EXTINF:-1,(DRM) 920 - TV1000 Comedy (original) HD
+http://5.137.37.194:1234/udp/225.54.43.22:5000
+#EXTINF:-1,(DRM) 200 - History (original) HD
+http://5.137.37.194:1234/udp/225.54.43.26:5000
+#EXTINF:-1,(DRM) 932 - Paramount Channel (original) HD
+http://5.137.37.194:1234/udp/225.54.43.31:5000
+#EXTINF:-1,(DRM) 933 - Viasat Nature/History (original) HD
+http://5.137.37.194:1234/udp/225.54.43.28:5000
+#EXTINF:-1,(DRM) 926 - Strashnoe (original) HD
+http://5.137.37.194:1234/udp/225.54.43.32:5000
+#EXTINF:-1,(DRM) 934 - Viasat Sport (original) HD
+http://5.137.37.194:1234/udp/225.54.43.34:5000
+#EXTINF:-1,(DRM) 937 - Discovery Science (original) HD
+http://5.137.37.194:1234/udp/225.54.43.35:5000
+#EXTINF:-1,(DRM) 931 - Amedia Premium (original) HD
+http://5.137.37.194:1234/udp/225.54.43.30:5000
+#EXTINF:-1,(DRM) 109 - Paramount Comedy (original) HD
+http://5.137.37.194:1234/udp/225.54.43.37:5000
+#EXTINF:-1,(DRM) 133 - A1 (original) HD
+http://5.137.37.194:1234/udp/225.54.43.29:5000
+#EXTINF:-1,(DRM) 921 - VIP Serial (original) HD
+http://5.137.37.194:1234/udp/225.54.43.33:5000
+#EXTINF:-1,(DRM) 938 - TLC (original) HD
+http://5.137.37.194:1234/udp/225.54.43.36:5000
+#EXTINF:-1,(DRM) 941 - Match Futbol 3 (original) HD
+http://5.137.37.194:1234/udp/225.54.43.40:5000
+#EXTINF:-1,(DRM) 042 - 360 (original) HD
+http://5.137.37.194:1234/udp/225.54.43.44:5000
+#EXTINF:-1,(DRM) 943 - Planeta (original) HD
+http://5.137.37.194:1234/udp/225.54.43.43:5000
+#EXTINF:-1,(DRM) 942 - Dom Kino Premium (original) HD
+http://5.137.37.194:1234/udp/225.54.43.42:5000
+#EXTINF:-1,(DRM) 939 - Match Futbol 1 (original) HD
+http://5.137.37.194:1234/udp/225.54.43.38:5000
+#EXTINF:-1,(DRM) 057 - Khabar 24 HD
+http://5.137.37.194:1234/udp/225.54.43.45:5000
+#EXTINF:-1,(DRM) 900 - Perviy kanal (+4) (original) HD
+http://5.137.37.194:1234/udp/225.54.43.46:5000
+#EXTINF:-1,(DRM) 953 - Avto 24 (original) HD
+http://5.137.37.194:1234/udp/225.54.43.48:5000
+#EXTINF:-1,(DRM) 902 - Match TV (original) HD
+http://5.137.37.194:1234/udp/225.54.43.47:5000
+#EXTINF:-1,(DRM) 940 - Match Futbol 2 (original) HD
+http://5.137.37.194:1234/udp/225.54.43.39:5000
+#EXTINF:-1,(DRM) 950 - FUEL TV (original) HD
+http://5.137.37.194:1234/udp/225.54.43.50:5000
+#EXTINF:-1,(DRM) 929 - Amedia Hit (original) HD
+http://5.137.37.194:1234/udp/225.54.43.41:5000
+#EXTINF:-1,(DRM) 949 - Eda Premium (original) HD
+http://5.137.37.194:1234/udp/225.54.43.52:5000
+#EXTINF:-1,(DRM) 955 - Oxotnik i Rubolov (original) HD
+http://5.137.37.194:1234/udp/225.54.43.51:5000
+#EXTINF:-1,(DRM) 951 - RTG (original) HD
+http://5.137.37.194:1234/udp/225.54.43.53:5000
+#EXTINF:-1,(DRM) 954 - RT Doc (original) HD
+http://5.137.37.194:1234/udp/225.54.43.54:5000
+#EXTINF:-1,(DRM) 201 - Travel Channel (original) HD
+http://5.137.37.194:1234/udp/225.54.43.57:5000
+#EXTINF:-1,(DRM) 952 - Bollywood (original) HD
+http://5.137.37.194:1234/udp/225.54.43.56:5000
+#EXTINF:-1,(DRM) 948 - iConcerts (original) HD
+http://5.137.37.194:1234/udp/225.54.43.49:5000
+#EXTINF:-1,(DRM) 616 - Match Igra (original) HD
+http://5.137.37.194:1234/udp/225.54.43.61:5000
+#EXTINF:-1,(DRM) 029 - Izvestia (original) HD
+http://5.137.37.194:1234/udp/225.54.43.59:5000
+#EXTINF:-1,(DRM) 945 - ID: Investigation Discovery (original) HD
+http://5.137.37.194:1234/udp/225.54.43.60:5000
+#EXTINF:-1,(DRM) 947 - Museum (original) HD
+http://5.137.37.194:1234/udp/225.54.43.58:5000
+#EXTINF:-1,(DRM) 946 - MIR PREMIUM (original) HD
+http://5.137.37.194:1234/udp/225.54.43.55:5000
+#EXTINF:-1,(DRM) 204 - Viasat History (original) HD
+http://5.137.37.194:1234/udp/225.54.43.64:5000
+#EXTINF:-1,(DRM) 101 - TV1000 Action (original) HD
+http://5.137.37.194:1234/udp/225.54.43.67:5000
+#EXTINF:-1,(DRM) 403 - World Fashion Channel (original) HD
+http://5.137.37.194:1234/udp/225.54.43.62:5000
+#EXTINF:-1,(DRM) 102 - TV1000 (original) HD
+http://5.137.37.194:1234/udp/225.54.43.66:5000
+#EXTINF:-1,(DRM) 203 - Viasat Explore (original) HD
+http://5.137.37.194:1234/udp/225.54.43.65:5000
+#EXTINF:-1,(DRM) 131 - Russkiy Roman (original) HD
+http://5.137.37.194:1234/udp/225.54.43.69:5000
+#EXTINF:-1,(DRM) 333 - CTC Kids (Original) HD
+http://5.137.37.194:1234/udp/225.54.43.74:5000
+#EXTINF:-1,(DRM) 935 - RENTV (original) HD
+http://5.137.37.194:1234/udp/225.54.43.73:5000
+#EXTINF:-1,(DRM) 052 - 360 News (original) HD
+http://5.137.37.194:1234/udp/225.54.43.71:5000
+#EXTINF:-1,(DRM) 502 - Russian MusicBox (original) HD
+http://5.137.37.194:1234/udp/225.54.43.72:5000
+#EXTINF:-1,(DRM) 956 - MULT (original) HD
+http://5.137.37.194:1234/udp/225.54.43.70:5000
+#EXTINF:-1,(DRM) 107 - TV1000 Ru kino (original) HD
+http://5.137.37.194:1234/udp/225.54.43.68:5000
+#EXTINF:-1,(DRM) 307 - Cartoon Network (original) HD
+http://5.137.37.194:1234/udp/225.54.43.76:5000
+#EXTINF:-1,(DRM) 410 - MTV (original) HD
+http://5.137.37.194:1234/udp/225.54.43.81:5000
+#EXTINF:-1,(DRM) 228 - Morskoy (original) HD
+http://5.137.37.194:1234/udp/225.54.43.82:5000
+#EXTINF:-1,(DRM) 957 - THT (original) HD
+http://5.137.37.194:1234/udp/225.54.43.79:5000
+#EXTINF:-1,(DRM) 136 - Spike (original) HD
+http://5.137.37.194:1234/udp/225.54.43.80:5000
+#EXTINF:-1,(DRM) 225 - HISTORY2 (original) HD
+http://5.137.37.194:1234/udp/225.54.43.78:5000
+#EXTINF:-1,(DRM) 709 - Shant premium (original) HD
+http://5.137.37.194:1234/udp/225.54.43.86:5000
+#EXTINF:-1,(DRM) 802 - Shalun TV (original) HD
+http://5.137.37.194:1234/udp/225.54.43.84:5000
+#EXTINF:-1,(DRM) 127 - Kino TV (original) HD
+http://5.137.37.194:1234/udp/225.54.43.85:5000
+#EXTINF:-1,(DRM) 505 - Ru.TV (original) HD
+http://5.137.37.194:1234/udp/225.54.43.83:5000
+#EXTINF:-1,(DRM) 245 - Nano (original) HD
+http://5.137.37.194:1234/udp/225.54.43.90:5000
+#EXTINF:-1,(DRM) 504 - Clubbing TV (original) HD
+http://5.137.37.194:1234/udp/225.54.43.88:5000
+#EXTINF:-1,(DRM) 119 - A2 pro lubov (original) HD
+http://5.137.37.194:1234/udp/225.54.43.89:5000
+#EXTINF:-1,(DRM) 209 - Dialogi o rubalke (original) HD
+http://5.137.37.194:1234/udp/225.54.43.87:5000
+#EXTINF:-1,(DRM) 804 - Babes TV (original) HD
+http://5.137.37.194:1234/udp/225.54.43.92:5000
+#EXTINF:-1,(DRM) 912 - Eurosport Gold (original) HD
+http://5.137.37.194:1234/udp/225.54.43.93:5000
+#EXTINF:-1,(DRM) 045 - Big Asia (original) HD
+http://5.137.37.194:1234/udp/225.54.43.91:5000
+#EXTINF:-1,(DRM) 222 - DTX (original) HD
+http://5.137.37.194:1234/udp/225.54.43.94:5000
+#EXTINF:-1,(DRM) 409 - Jara (original) HD
+http://5.137.37.194:1234/udp/225.54.43.95:5000
+#EXTINF:-1,(DRM) 246 - Kazakh TV HD
+http://5.137.37.194:1234/udp/225.54.43.99:5000
+#EXTINF:-1,(DRM) 407 - TV5 Monde (original) HD
+http://5.137.37.194:1234/udp/225.54.43.100:5000
+#EXTINF:-1,(DRM) 958 - KinoHit (original) HD
+http://5.137.37.194:1234/udp/225.54.43.105:5000
+#EXTINF:-1,(DRM) 961 - KinoPrimera (original) HD
+http://5.137.37.194:1234/udp/225.54.43.108:5000
+#EXTINF:-1,(DRM) 960 - KinoSvidanie (original) HD
+http://5.137.37.194:1234/udp/225.54.43.107:5000
+#EXTINF:-1,(DRM) 141 - Bolt (original) HD
+http://5.137.37.194:1234/udp/225.54.43.111:5000
+#EXTINF:-1,(DRM) 140 - Star Famaly (original) HD
+http://5.137.37.194:1234/udp/225.54.43.110:5000
+#EXTINF:-1,(DRM) 230 - Viasat Nature (original) HD
+http://5.137.37.194:1234/udp/225.54.43.98:5000
+#EXTINF:-1,(DRM) 959 - KinoSemya (original) HD
+http://5.137.37.194:1234/udp/225.54.43.106:5000
+#EXTINF:-1,(DRM) 000 - Vse TV (original) HD
+http://5.137.37.194:1234/udp/225.54.43.112:5000
+#EXTINF:-1,(DRM) 962 - Dikaiya Ohota (original) HD
+http://5.137.37.194:1234/udp/225.54.43.113:5000
+#EXTINF:-1,(DRM) 139 - Star Cinema (original) HD
+http://5.137.37.194:1234/udp/225.54.43.109:5000
+#EXTINF:-1,(DRM) 963 - Dikaiya Ribalka (original) HD
+http://5.137.37.194:1234/udp/225.54.43.114:5000
+#EXTINF:-1,(DRM) 522 - 1HD Music Television (original)
+http://5.137.37.194:1234/udp/225.54.43.115:5000
+#EXTINF:-1,(DRM) 417 - Teatr (original) HD
+http://5.137.37.194:1234/udp/225.54.43.118:5000
+#EXTINF:-1,(DRM) 058 - Perviy Rossiyskiy Nacionalniy Kanal (original) HD
+http://5.137.37.194:1234/udp/225.54.43.120:5000
+#EXTINF:-1,(DRM) 600 - UFC (original) HD
+http://5.137.37.194:1234/udp/225.54.43.117:5000
+#EXTINF:-1,(DRM) 244 - Tayna Galaktiki (original) HD
+http://5.137.37.194:1234/udp/225.54.43.121:5000
+#EXTINF:-1,(DRM) 075 - Pobeda (original) HD
+http://5.137.37.194:1234/udp/225.54.43.122:5000
+#EXTINF:-1,(DRM) 710 - Shant News (original) HD
+http://5.137.37.194:1234/udp/225.54.43.123:5000
+#EXTINF:-1,(DRM) 145 - FAN (original) HD
+http://5.137.37.194:1234/udp/225.54.43.119:5000
+#EXTINF:-1,(DRM) 120 - KinoUzhas (original) HD
+http://5.137.37.194:1234/udp/225.54.43.126:5000
+#EXTINF:-1,(DRM) 712 - Shant Serial (original) HD
+http://5.137.37.194:1234/udp/225.54.43.125:5000
+#EXTINF:-1,(DRM) 523 - AIVA (original) HD
+http://5.137.37.194:1234/udp/225.54.43.127:5000
+#EXTINF:-1,(DRM) 220 - English Club (original) HD
+http://5.137.37.194:1234/udp/225.54.43.116:5000
+#EXTINF:-1,(DRM) 711 - Shant Music (original) HD
+http://5.137.37.194:1234/udp/225.54.43.124:5000
+#EXTINF:-1,(DRM) 901 - Eurosport 1 (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.2:5000
+#EXTINF:-1,(DRM) 605 - Match Arena (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.3:5000
+#EXTINF:-1,(DRM) 114 - Fox Life (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.5:5000
+#EXTINF:-1,(DRM) 608 - MATCH PREMIER (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.4:5000
+#EXTINF:-1,(DRM) 904 - NGC (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.6:5000
+#EXTINF:-1,(DRM) 874 - Travel and Adventure (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.8:5000
+#EXTINF:-1,(DRM) 905 - NG Wild (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.7:5000
+#EXTINF:-1,(DRM) 907 - myZen.tv (original) HD
+http://5.137.37.194:1234/udp/225.54.53.9:5000
+#EXTINF:-1,(DRM) 909 - Mezzo Live (original) HD
+http://5.137.37.194:1234/udp/225.54.53.11:5000
+#EXTINF:-1,(DRM) 908 - MTV Live (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.10:5000
+#EXTINF:-1,(DRM) 609 - Futbol (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.12:5000
+#EXTINF:-1,(DRM) 413 - O2TV_HD (transcoding)
+http://5.137.37.194:1234/udp/225.54.53.13:5000
+#EXTINF:-1,(DRM) 913 - Nickelodeon (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.15:5000
+#EXTINF:-1,(DRM) 110 - Sony Channel (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.16:5000
+#EXTINF:-1,(DRM) 113 - FOX (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.17:5000
+#EXTINF:-1,(DRM) 217 - Food Network (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.14:5000
+#EXTINF:-1,(DRM) 918 - TV1000 Premium (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.20:5000
+#EXTINF:-1,(DRM) 917 - Animal Planet (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.19:5000
+#EXTINF:-1,(DRM) 919 - TV1000 Megahit (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.21:5000
+#EXTINF:-1,(DRM) 920 - TV1000 Comedy (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.22:5000
+#EXTINF:-1,(DRM) 916 - Discovery Channel (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.18:5000
+#EXTINF:-1,(DRM) 922 - Россия 1 (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.23:5000
+#EXTINF:-1,(DRM) 031 - Russia Today (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.25:5000
+#EXTINF:-1,(DRM) 521 - BRIDGE DELUXE (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.24:5000
+#EXTINF:-1,(DRM) 933 - Viasat Nature/History (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.28:5000
+#EXTINF:-1,(DRM) 133 - A1 (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.29:5000
+#EXTINF:-1,(DRM) 200 - History (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.26:5000
+#EXTINF:-1,(DRM) 925 - KHL (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.27:5000
+#EXTINF:-1,(DRM) 932 - Paramount channel (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.31:5000
+#EXTINF:-1,(DRM) 931 - Amedia Premium (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.30:5000
+#EXTINF:-1,(DRM) 921 - VIP Serial (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.33:5000
+#EXTINF:-1,(DRM) 926 - Strashnoe (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.32:5000
+#EXTINF:-1,(DRM) 937 - Discovery Science (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.35:5000
+#EXTINF:-1,(DRM) 109 - Paramount comedy (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.37:5000
+#EXTINF:-1,(DRM) 938 - TLC (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.36:5000
+#EXTINF:-1,(DRM) 939 - Match Futbol 1 (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.38:5000
+#EXTINF:-1,(DRM) 940 - Match Futbol 2 (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.39:5000
+#EXTINF:-1,(DRM) 941 - Match Futbol 3 (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.40:5000
+#EXTINF:-1,(DRM) 934 - Viasat Sport (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.34:5000
+#EXTINF:-1,(DRM) 929 - Amedia Hit (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.41:5000
+#EXTINF:-1,(DRM) 942 - Dom Kino Premium (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.42:5000
+#EXTINF:-1,(DRM) 943 - Planeta (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.43:5000
+#EXTINF:-1,(DRM) 042 - 360 (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.44:5000
+#EXTINF:-1,(DRM) 900 - Perviy kanal (+4) (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.46:5000
+#EXTINF:-1,(DRM) 902 - Match TV (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.47:5000
+#EXTINF:-1,(DRM) 948 - Iconcert (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.49:5000
+#EXTINF:-1,(DRM) 953 - Avto 24 (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.48:5000
+#EXTINF:-1,(DRM) 949 - Eda Premium (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.52:5000
+#EXTINF:-1,(DRM) 951 - RTG (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.53:5000
+#EXTINF:-1,(DRM) 950 - FUEL TV (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.50:5000
+#EXTINF:-1,(DRM) 954 - RT Doc HD
+http://5.137.37.194:1234/udp/225.54.53.54:5000
+#EXTINF:-1,(DRM) 946 - MIR PREMIUM (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.55:5000
+#EXTINF:-1,(DRM) 955 - Oxotnik i Rubolov (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.51:5000
+#EXTINF:-1,(DRM) 201 - Travel Channel (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.57:5000
+#EXTINF:-1,(DRM) 952 - Bollywood (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.56:5000
+#EXTINF:-1,(DRM) 029 - Izvestia (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.59:5000
+#EXTINF:-1,(DRM) 945 - ID Invest Discovery (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.60:5000
+#EXTINF:-1,(DRM) 403 - World fashion ch (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.62:5000
+#EXTINF:-1,(DRM) 204 - Viasat History (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.64:5000
+#EXTINF:-1,(DRM) 616 - Match Igra (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.61:5000
+#EXTINF:-1,(DRM) 102 - TV1000 (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.66:5000
+#EXTINF:-1,(DRM) 203 - Viasat Explore (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.65:5000
+#EXTINF:-1,(DRM) 101 - TV1000 Action (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.67:5000
+#EXTINF:-1,(DRM) 131 - Russkiy Roman (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.69:5000
+#EXTINF:-1,(DRM) 956 - MULT (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.70:5000
+#EXTINF:-1,(DRM) 935 - RENTV (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.73:5000
+#EXTINF:-1,(DRM) 502 - Russian MusicBox (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.72:5000
+#EXTINF:-1,(DRM) 107 - TV1000 Ru Kino (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.68:5000
+#EXTINF:-1,(DRM) 333 - CTC Kids (Transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.74:5000
+#EXTINF:-1,(DRM) 307 - Cartoon Network (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.76:5000
+#EXTINF:-1,(DRM) 052 - 360 News (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.71:5000
+#EXTINF:-1,(DRM) 225 - HISTORY2 (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.78:5000
+#EXTINF:-1,(DRM) 136 - Spike (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.80:5000
+#EXTINF:-1,(DRM) 505 - Ru.TV (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.83:5000
+#EXTINF:-1,(DRM) 228 - Morskoy (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.82:5000
+#EXTINF:-1,(DRM) 802 - Shalun (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.84:5000
+#EXTINF:-1,(DRM) 127 - Kino TV (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.85:5000
+#EXTINF:-1,(DRM) 957 - THT (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.79:5000
+#EXTINF:-1,(DRM) 410 - MTV (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.81:5000
+#EXTINF:-1,(DRM) 504 - Clubbing TV (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.88:5000
+#EXTINF:-1,(DRM) 209 - Dialogi o rubalke (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.87:5000
+#EXTINF:-1,(DRM) 222 - DTX (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.94:5000
+#EXTINF:-1,(DRM) 912 - Eurosport Gold (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.93:5000
+#EXTINF:-1,(DRM) 119 - A2 pro lubov (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.89:5000
+#EXTINF:-1,(DRM) 045 - Big Asia (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.91:5000
+#EXTINF:-1,(DRM) 804 - Babes TV (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.92:5000
+#EXTINF:-1,(DRM) 409 - Jara (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.95:5000
+#EXTINF:-1,(DRM) 051 - France 24 (original) HD
+http://5.137.37.194:1234/udp/225.54.53.96:5000
+#EXTINF:-1,(DRM) 230 - Viasat Nature (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.98:5000
+#EXTINF:-1,(DRM) 407 - TV5 Monde (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.100:5000
+#EXTINF:-1,(DRM) 987 - Eurosport 4K (4K original)
+http://5.137.37.194:1234/udp/225.54.53.102:5000
+#EXTINF:-1,(DRM) 958 - KinoHit (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.105:5000
+#EXTINF:-1,(DRM) 959 - KinoSemya (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.106:5000
+#EXTINF:-1,(DRM) 961 - KinoPrimera (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.108:5000
+#EXTINF:-1,(DRM) 960 - KinoSvidanie (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.107:5000
+#EXTINF:-1,(DRM) 991 - Russian Extreme Ultra (4K original)
+http://5.137.37.194:1234/udp/225.54.53.104:5000
+#EXTINF:-1,(DRM) 988 -  Love Nature 4K (4K original)
+http://5.137.37.194:1234/udp/225.54.53.101:5000
+#EXTINF:-1,(DRM) 139 - Star Cinema (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.109:5000
+#EXTINF:-1,(DRM) 140 - Star Family (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.110:5000
+#EXTINF:-1,(DRM) 962 - Dikaiya Ohota (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.113:5000
+#EXTINF:-1,(DRM) 141 - Bolt (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.111:5000
+#EXTINF:-1,(DRM) 963 - Dikaiya Ribalka (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.114:5000
+#EXTINF:-1,(DRM) 992 - Ultra Cinema (4K original)
+http://5.137.37.194:1234/udp/225.54.53.103:5000
+#EXTINF:-1,(DRM) 417 - Teatr (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.118:5000
+#EXTINF:-1,(DRM) 145 - FAN (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.119:5000
+#EXTINF:-1,(DRM) 075 - Pobeda (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.122:5000
+#EXTINF:-1,(DRM) 244 - Tayna Galaktiki (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.121:5000
+#EXTINF:-1,(DRM) 523 - AIVA (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.127:5000
+#EXTINF:-1,(DRM) 120 - KinoUzhas (transcoding) HD
+http://5.137.37.194:1234/udp/225.54.53.126:5000
